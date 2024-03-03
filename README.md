@@ -17,8 +17,16 @@
 Ответьте на следующие вопросы:
 
 - Какие сетевые службы в ней разрешены?
+Сетевые службы выявленные после сканирования
+- ![alt text](https://github.com/PavelKondakov22/13-1/blob/main/s1.png)  
 - Какие уязвимости были вами обнаружены? (список со ссылками: достаточно трёх уязвимостей)
-  
+Также было найдено много уязвимости, ссылки на описание которых сразу же выдается при сканировании. Вот некоторые из них:
+
+:bust_in_silhouette: SSV:78173       7.8     https://vulners.com/seebug/SSV:78173  
+:bust_in_silhouette: EDB-ID:15215    7.8     https://vulners.com/exploitdb/EDB-ID:15215  
+:bust_in_silhouette: CVE-2010-4478   7.5     https://vulners.com/cve/CVE-2010-4478  
+
+  ![alt text](https://github.com/PavelKondakov22/13-1/blob/main/s2.png)  
 *Приведите ответ в свободной форме.*  
 
 ### Задание 2
